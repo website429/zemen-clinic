@@ -8507,7 +8507,7 @@ figure {
   }
 
   .navbar_logo {
-    max-width: 130px;
+    max-width: 100%;
   }
 
   .navbar_wrap {

@@ -2992,7 +2992,7 @@ figure {
 
 .navbar_logo {
   width: var(--_max-width---max-width--100);
-  max-width: 140px;
+  max-width: 500px;
   padding: var(--_size-variables---element-spacing--none);
 }
 
